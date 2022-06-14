@@ -1,6 +1,6 @@
 - 🔭 Currently working with data protection and malware analysis
 - 🌱 Learning python
-- 💬 Contact me on email: fcmoreira7@gmail.com
+- 💬 Contact me on email: fsec.costa@gmail.com
 
 <div align="center">
   <a href="https://github.com/felipemor">
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <div> 
-  <a href = "mailto:fcmoreira7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fsec.costa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-mor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
