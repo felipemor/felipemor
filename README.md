@@ -1,4 +1,4 @@
-- 🔭 Currently working with data protection and malware analysis
+- 🔭 Professional with 9 years of experience in defensive security, offensive security and malware analysis,knowledge of GDPR and GDPR.
 - 🌱 Learning python
 - 💬 Contact me on email: fsec.costa@gmail.com
 
